@@ -7,17 +7,81 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3CCACA8C-561B-4160-9003-4957BBA26055"
+            uuid = "CED51E59-B5D5-4900-93D6-7A44282D81CA"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "GoodWeather-MVVM/Services/WebService.swift"
+            filePath = "GoodWeather-MVVM/View Models/SettingsViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
-            landmarkName = "load(resource:completion:)"
-            landmarkType = "7">
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "selectedUnit"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CED51E59-B5D5-4900-93D6-7A44282D81CA - c18a123a9dd44c56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoodWeather_MVVM.SettingsViewModel.selectedUnit.getter : GoodWeather_MVVM.Unit"
+                  moduleName = "GoodWeather-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kursatsimsek/Documents/Projects/GoodWeather-MVVM/GoodWeather-MVVM/View%20Models/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "CED51E59-B5D5-4900-93D6-7A44282D81CA - c18a123a9dd44c56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoodWeather_MVVM.SettingsViewModel.selectedUnit.getter : GoodWeather_MVVM.Unit"
+                  moduleName = "GoodWeather-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kursatsimsek/Documents/Projects/GoodWeather-MVVM/GoodWeather-MVVM/View%20Models/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "601">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C2AF90D-87D7-4E45-9DAD-4AA96A313C02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoodWeather-MVVM/View Models/SettingsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "selectedUnit"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDA2B1FA-FC3A-4293-B190-44D54EA2E21F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoodWeather-MVVM/View Models/SettingsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "selectedUnit"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
